@@ -1,0 +1,23 @@
+{
+  "name": "rahic-server",
+  "version": "1.0.0",
+  "description": "A server for Rahic",
+  "main": "Main.js",
+  "scripts": {
+    "test": "node bootstrap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nougator/Rahic-server.git"
+  },
+  "keywords": [
+    "rahic",
+    "minecraft"
+  ],
+  "author": "Nougator",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nougator/Rahic-server/issues"
+  },
+  "homepage": "https://github.com/nougator/Rahic-server#readme"
+}
